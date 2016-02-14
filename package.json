@@ -1,0 +1,22 @@
+{
+  "name": "react_rails",
+  "version": "1.0.0",
+  "description": "RoR &amp; React front-end",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LookOnTheBrightSide/react_rails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LookOnTheBrightSide/react_rails/issues"
+  },
+  "homepage": "https://github.com/LookOnTheBrightSide/react_rails#readme"
+}
